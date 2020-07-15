@@ -1,0 +1,45 @@
+
+footer {
+  background-color: #000000;
+  color: white;
+  margin-bottom: 40px;
+  height: 50px;
+}
+footer p {
+  font-size: 15px
+  text-arign: center;
+}
+
+header {
+  border-bottom:double 10px #0000ff;
+}
+
+ul {
+  list-style: none;
+}
+
+.text {
+  width: 400px;
+}
+
+.content {
+  font-size: 0.8rem;
+}
+
+.forms {
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text p{
+  margin;0px auto;
+  background-color: #0099FF;
+  color: white;
+  width: 60px;
+  font-size: 1.5rem
+}
+
+#confirm {
+  color: blue;
+}
